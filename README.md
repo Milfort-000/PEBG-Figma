@@ -1,7 +1,7 @@
 # PEBG
 # PREMIERE EGLISE BAPTISTE DES GONAIVES
 
-PEBG, est une aplication mobile révolutionnaire permettant à les membres de l'église et à toutes personnes intéréssé d'assister à un culte partout ou ils ou elles se trouvent depuis une connexion d'internet.
+PEBG, est une aplication mobile révolutionnaire permettant à les membres de l'église et à toutes personnes intéréssé d'assister à un culte partout où ils ou elles se trouvent depuis une connexion d'internet.
 
 # Membres du groupe
 - Nachtender ORILIEN
